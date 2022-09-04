@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/yym/file/C_File/LinkList/build",
+  "command": "/bin/gcc   -g -o CMakeFiles/CMakelists.txt.dir/main.c.o -c /home/yym/file/C_File/LinkList/main.c",
+  "file": "/home/yym/file/C_File/LinkList/main.c"
+},
+{
+  "directory": "/home/yym/file/C_File/LinkList/build",
+  "command": "/bin/gcc   -g -o CMakeFiles/CMakelists.txt.dir/list.c.o -c /home/yym/file/C_File/LinkList/list.c",
+  "file": "/home/yym/file/C_File/LinkList/list.c"
+}
+]
